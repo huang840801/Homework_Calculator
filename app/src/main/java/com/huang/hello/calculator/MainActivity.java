@@ -70,7 +70,7 @@ public class MainActivity extends AppCompatActivity {
                 return false;
             }
         });
-            // 測試按鈕圖案改變是因為clicked還是hovering
+            // 測試按鈕圖案改變是因為clicking還是hovering
         button0.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
