@@ -25,24 +25,28 @@
         android:weightSum="4">
 
         <Button
+            android:id="@+id/button_reset"
             android:layout_width="132sp"
             android:layout_height="100sp"
             android:layout_weight="1"
             android:background="@drawable/calculator_reset" />
 
         <Button
+            android:id="@+id/button_change"
             android:layout_width="132sp"
             android:layout_height="100sp"
             android:layout_weight="1"
             android:background="@drawable/calculator_changesign" />
 
         <Button
+            android:id="@+id/button_percent"
             android:layout_width="132sp"
             android:layout_height="100sp"
             android:layout_weight="1"
             android:background="@drawable/calculator_percent" />
 
         <Button
+            android:id="@+id/button_divide"
             android:layout_width="132sp"
             android:layout_height="100sp"
             android:layout_weight="1"
@@ -58,24 +62,28 @@
         android:weightSum="4">
 
         <Button
+            android:id="@+id/button7"
             android:layout_width="132sp"
             android:layout_height="100sp"
             android:layout_weight="1"
             android:background="@drawable/calculator_7" />
 
         <Button
+            android:id="@+id/button8"
             android:layout_width="132sp"
             android:layout_height="100sp"
             android:layout_weight="1"
             android:background="@drawable/calculator_8" />
 
         <Button
+            android:id="@+id/button9"
             android:layout_width="132sp"
             android:layout_height="100sp"
             android:layout_weight="1"
             android:background="@drawable/calculator_9" />
 
         <Button
+            android:id="@+id/button_times"
             android:layout_width="132sp"
             android:layout_height="100sp"
             android:layout_weight="1"
@@ -91,24 +99,28 @@
         android:weightSum="4">
 
         <Button
+            android:id="@+id/button4"
             android:layout_width="132sp"
             android:layout_height="100sp"
             android:layout_weight="1"
             android:background="@drawable/calculator_4" />
 
         <Button
+            android:id="@+id/button5"
             android:layout_width="132sp"
             android:layout_height="100sp"
             android:layout_weight="1"
             android:background="@drawable/calculator_5" />
 
         <Button
+            android:id="@+id/button6"
             android:layout_width="132sp"
             android:layout_height="100sp"
             android:layout_weight="1"
             android:background="@drawable/calculator_6" />
 
         <Button
+            android:id="@+id/button_minus"
             android:layout_width="132sp"
             android:layout_height="100sp"
             android:layout_weight="1"
@@ -124,24 +136,28 @@
         android:weightSum="4">
 
         <Button
+            android:id="@+id/button1"
             android:layout_width="132sp"
             android:layout_height="100sp"
             android:layout_weight="1"
             android:background="@drawable/calculator_1" />
 
         <Button
+            android:id="@+id/button2"
             android:layout_width="132sp"
             android:layout_height="100sp"
             android:layout_weight="1"
             android:background="@drawable/calculator_2" />
 
         <Button
+            android:id="@+id/button3"
             android:layout_width="132sp"
             android:layout_height="100sp"
             android:layout_weight="1"
             android:background="@drawable/calculator_3" />
 
         <Button
+            android:id="@+id/button_plus"
             android:layout_width="132sp"
             android:layout_height="100sp"
             android:layout_weight="1"
@@ -157,18 +173,21 @@
         android:weightSum="4">
 
         <Button
+            android:id="@+id/button0"
             android:layout_width="132sp"
             android:layout_height="100sp"
             android:layout_weight="1"
             android:background="@drawable/calculator_0" />
 
         <Button
+            android:id="@+id/button_point"
             android:layout_width="132sp"
             android:layout_height="100sp"
             android:layout_weight="1"
             android:background="@drawable/calculator_point" />
 
         <Button
+            android:id="@+id/button_equal"
             android:layout_width="264sp"
             android:layout_height="100sp"
             android:layout_weight="2"
