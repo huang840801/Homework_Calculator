@@ -9,13 +9,23 @@
     tools:context=".MainActivity">
 
     <TextView
+        android:id="@+id/Textview_info"
         android:layout_width="match_parent"
-        android:layout_height="78dp"
+        android:layout_height="28dp"
+        android:background="@color/colorAccent"
+        android:gravity="right"
+        android:paddingRight="30dp"
+        android:textSize="25sp"
+        tools:textColor="@color/colorPrimary" />
+    <TextView
+        android:id="@+id/Textview_Answer"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
         android:background="@color/colorAccent"
         android:gravity="center"
-        android:text="3.1415926"
-        android:textSize="50sp"
+        android:textSize="40sp"
         tools:textColor="@color/colorPrimary" />
+
 
     <LinearLayout
         android:layout_width="match_parent"
